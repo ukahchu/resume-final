@@ -114,6 +114,7 @@
         .frontend-text{
             text-align: left;
             font-size: small;
+            padding-right: 100px;
         }
 
         .contact-message{
